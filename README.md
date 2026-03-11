@@ -1,15 +1,31 @@
-# 📊 Linear Regression & Student Marks Analysis
+# 📊 Python Data Science Mini Projects
 
-This project demonstrates a **basic Machine Learning Linear Regression model** and a **Student Marks Analysis mini project** using Python.
+This repository contains **two beginner-friendly mini projects** demonstrating basic **Machine Learning and Data Analysis concepts using Python**.
 
-## 🚀 Features
+## 🚀 Projects Included
 
-- Linear Regression model using **Scikit-learn**
-- Predict **house price based on house size**
-- Data visualization using **Matplotlib**
-- Student marks dataset analysis using **Pandas**
-- Find **top scorer and average marks**
-- Bar chart visualization of student performance
+### 1️⃣ Linear Regression (Machine Learning)
+
+A simple example of **Linear Regression using Scikit-learn** to predict **house prices based on house size**.
+
+**Features**
+- Train a Linear Regression model
+- Predict house price
+- Visualize regression line using Matplotlib
+
+---
+
+### 2️⃣ Student Marks Analysis
+
+A small **data analysis project using Pandas** to analyze student marks.
+
+**Features**
+- Create dataset of student marks
+- Calculate **total and average marks**
+- Identify the **top scorer**
+- Visualize results using **bar chart**
+
+---
 
 ## 🛠 Libraries Used
 
@@ -18,23 +34,33 @@ This project demonstrates a **basic Machine Learning Linear Regression model** a
 - Matplotlib
 - Scikit-learn
 
+---
+
 ## ▶️ Run the Project
 
-Install required libraries:
+Install dependencies:
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn
 ```
 
-Run the Python file:
+Run the Python script:
 
 ```bash
-python program.py
+python project.py
 ```
+
+---
 
 ## 🎯 Purpose
 
-This project helps beginners understand **basic machine learning concepts (Linear Regression)** and **simple data analysis using Python**.
+This repository helps beginners learn:
+
+- Basic **Machine Learning (Linear Regression)**
+- **Data analysis with Pandas**
+- **Data visualization with Matplotlib**
+
+---
 
 ## 👨‍💻 Author
 
